@@ -38,3 +38,6 @@ out/
 
 ### logger ###
 logs
+
+### application-private.properties ###
+application-private.properties
