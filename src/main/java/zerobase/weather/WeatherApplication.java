@@ -9,7 +9,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @EnableTransactionManagement
 @EnableScheduling
 public class WeatherApplication {
-    //api key : eeafc477ba0920e22ddceb7da59e6d01
     public static void main(String[] args) {
         SpringApplication.run(WeatherApplication.class, args);
     }
